@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhanuka-BYR
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning cumputer science at UCSC.
+- 🌱 I’m currently learning computer science at UCSC.
 - 💞️ I’m looking to collaborate with my group members.
 - 📫 How to reach me bhanukayar@gmail.com
 
